@@ -14,7 +14,11 @@
 		"vscode": {
 			"extensions": [
 				"vscjava.vscode-java-pack"
-			]
+			],
+			"settings": {
+				"terminal.integrated.fontSize" : 18,
+				"editor.fontSize" : 18
+			}
 		}
 	}
 
